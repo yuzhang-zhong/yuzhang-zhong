@@ -9,6 +9,6 @@ I study how AI agents behave and build tools that help people inspect and correc
 [TraceFork](https://yuzhang-zhong.github.io/publications/) · EMNLP 2026 Demo  
 [RewindAI](https://yuzhang-zhong.github.io/portfolio/rewindai) · UIST 2026 Poster
 
-[Homepage ↗](https://yuzhang-zhong.github.io/)
+[Homepage](https://yuzhang-zhong.github.io/)
 
 </div>
