@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yuzhang-zhong/yuzhang-zhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Yuzhang Zhong · 钟宇璋
 
-Here are some ideas to get you started:
+**Human–Agent Interaction · CS & NLP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I study how AI agents behave and build tools that help people inspect and correct them.
+
+[TraceFork](https://yuzhang-zhong.github.io/publications/) · EMNLP 2026 Demo  
+[RewindAI](https://yuzhang-zhong.github.io/portfolio/rewindai) · UIST 2026 Poster
+
+[Homepage ↗](https://yuzhang-zhong.github.io/)
+
+</div>
