@@ -1,4 +1,4 @@
-## Yuzhang Zhong · 钟宇璋
+## Yuzhang Zhong · 钟宇璋&nbsp;<img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-header.svg" alt="Pixel Banban sitting, blinking, walking, playing and napping" width="52" height="28" align="absmiddle" /> <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-caption.svg" alt="My original character from Stray Cat Simulator" width="112" height="24" align="absmiddle" />
 
 **Human–Agent Interaction · CS & NLP**
 
@@ -22,8 +22,4 @@ My research focuses on *agent decision-making* and *how people can inspect agent
 <a href="mailto:uc32853@um.edu.mo" title="Email: uc32853@um.edu.mo"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/email.svg" alt="Email" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yuzhang-zhong/" title="LinkedIn"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="https://xhslink.com/m/7xuJfBEetua" title="RedNote"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong.github.io/main/images/rednote-icon.png" alt="RedNote" width="24" height="24" /></a>
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-walk.svg" alt="Pixel Banban walking back and forth within this strip" width="600" />
 </p>
