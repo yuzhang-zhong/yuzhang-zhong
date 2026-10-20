@@ -1,4 +1,4 @@
-## Yuzhang Zhong · 钟宇璋&nbsp;<img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-header.svg" alt="Pixel Banban sitting, blinking, walking, playing and napping" width="52" height="28" align="absmiddle" /> <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-caption.svg" alt="My original character from Stray Cat Simulator" width="112" height="24" align="absmiddle" />
+## Yuzhang Zhong · 钟宇璋&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-header.svg" alt="Pixel Banban sitting, blinking, walking, playing and napping" width="90" height="48" align="absmiddle" /> <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-credit.svg" alt="My original character from Stray Cat Simulator" width="150" height="12" align="absmiddle" />
 
 **Human–Agent Interaction · CS & NLP**
 

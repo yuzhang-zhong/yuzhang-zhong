@@ -8,6 +8,6 @@
 
 Original GIF frames were cropped into 24 equal sprite cells. Only the connected exterior pale backdrop was made transparent; the cat artwork was not recolored, redrawn, or generated.
 
-The self-contained SVG embeds its sprite sheet, with no scripts, tracking or remote dependencies. A tiny 26px sprite moves inside a 52 × 28 image beside the profile name, with varied original poses over a 24-second loop. `prefers-reduced-motion: reduce` replaces the motion with a still original pose. The animation stays within its image; it does not overlay the rest of the GitHub page.
+The self-contained SVG embeds its sprite sheet, with no scripts, tracking or remote dependencies. The 52 × 28 SVG is displayed at 90 × 48 beside the profile name, enlarging the animated sprite to roughly 45px with a generous gap after the name, with varied original poses over a 24-second loop. `prefers-reduced-motion: reduce` replaces the motion with a still original pose. The animation stays within its image; it does not overlay the rest of the GitHub page.
 
-`banban-caption.svg` provides the adjacent 9px English character credit, with light- and dark-mode text colors. The earlier `banban-walk.svg` is retained as an unused asset.
+`banban-credit.svg` provides the adjacent 7px, single-line English character credit, with light- and dark-mode text colors. The earlier `banban-walk.svg` and two-line `banban-caption.svg` are retained as unused assets.
