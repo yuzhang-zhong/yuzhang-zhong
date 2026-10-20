@@ -14,6 +14,6 @@ My research focuses on *agent decision-making* and *how people can inspect agent
 
 ### Beyond Research
 
-- I'm a RedNote creator with 43k+ likes and favorites. 750k+ users on RedNote have played my *Stray Cat Simulator*, and I also share blogs about harnesses(coding/autoresearch/EDA/...)
+- I'm a **RedNote creator with 43k+ likes and favorites**. **750k+ users** on RedNote have played my *Stray Cat Simulator*, and I also share blogs about harnesses(coding/autoresearch/EDA/...)
 
 Links: [Homepage](https://yuzhang-zhong.github.io/) | [Email](mailto:uc32853@um.edu.mo) | [LinkedIn](https://www.linkedin.com/in/yuzhang-zhong/) | [RedNote](https://xhslink.com/m/7xuJfBEetua)
