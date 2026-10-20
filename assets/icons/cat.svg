@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title desc"><title id="title">Stray Cat Simulator project icon</title><desc id="desc">Generic cat symbol; not an official project logo.</desc><rect width="32" height="32" rx="7" fill="#fff4e6"/><g fill="none" stroke="#ad7026" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 13 7 6l7 4h4l7-4-1 7a9 9 0 1 1-16 0z"/><path d="M12 17h.01M20 17h.01M14 21l2 2 2-2M6 19l-3-1M6 22l-3 1M26 19l3-1M26 22l3 1"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="cat-title cat-desc">
+  <title id="cat-title">Stray Cat Simulator</title>
+  <desc id="cat-desc">A streetwise cat silhouette with an asymmetric ear and a green eye.</desc>
+  <rect x=".5" y=".5" width="127" height="127" rx="27.5" fill="#fff" stroke="#E5E7EB"/>
+  <path d="M27 30c0-3 3-4 5-2l18 13c9-3 19-3 28 0l15-12 9 6-2 30c-1 21-16 36-36 36S29 86 28 65l-1-35Z" fill="#111827"/>
+  <path d="m38 59 18 6c-6 9-15 7-18-6Z" fill="#fff"/>
+  <path d="m72 65 18-6c-3 13-12 15-18 6Z" fill="#2F9B68"/>
+  <path d="M60 79h8l-4 5-4-5Z" fill="#fff"/>
+</svg>

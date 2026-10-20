@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title desc"><title id="title">Dream Factory project icon</title><desc id="desc">Generic open-book symbol; not an official project logo.</desc><rect width="32" height="32" rx="7" fill="#eaf6f2"/><g fill="none" stroke="#26836b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 10c-3-2-6-2-10-1v15c4-1 7-1 10 1 3-2 6-2 10-1V9c-4-1-7-1-10 1z"/><path d="M16 10v15M10 14l3 1M10 18l3 1M20 15l2-1M20 19l2-1"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="dream-title dream-desc">
+  <title id="dream-title">Dream Factory</title>
+  <desc id="dream-desc">An open storybook with a rising spark of imagination.</desc>
+  <rect x=".5" y=".5" width="127" height="127" rx="27.5" fill="#fff" stroke="#E5E7EB"/>
+  <path d="M25 43c0-4 3-6 7-5l23 8c4 1 5 4 5 8v45L31 89c-4-1-6-4-6-8V43Z" fill="#4F46E5"/>
+  <path d="M68 54c0-4 1-7 5-8l23-8c4-1 7 1 7 5v38c0 4-2 7-6 8L68 99V54Z" fill="#2563EB"/>
+  <path d="m89 18 5 13 13 5-13 5-5 13-5-13-13-5 13-5 5-13Z" fill="#fff" stroke="#fff" stroke-width="8" stroke-linejoin="round"/>
+  <path d="m89 18 5 13 13 5-13 5-5 13-5-13-13-5 13-5 5-13Z" fill="#111827"/>
+</svg>

@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-labelledby="title desc"><title id="title">RewindAI project icon</title><desc id="desc">Generic rewind symbol; not an official project logo.</desc><rect width="32" height="32" rx="7" fill="#f3f0ff"/><g fill="none" stroke="#7351b5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11a9 9 0 1 1-1.8 8"/><path d="M9 6v6H3"/><path d="M16 10v6l4 2"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-labelledby="rewind-title rewind-desc">
+  <title id="rewind-title">RewindAI</title>
+  <desc id="rewind-desc">Paired rewind ribbons represent reflection and a parallel self.</desc>
+  <rect x=".5" y=".5" width="127" height="127" rx="27.5" fill="#fff" stroke="#E5E7EB"/>
+  <path d="M62 27c3-2 7 0 7 4v14L49 61c-2 2-2 4 0 6l20 16v14c0 4-4 6-7 4L25 71c-5-4-5-10 0-14l37-30Z" fill="#2563EB"/>
+  <path d="M101 27c3-2 7 0 7 4v14L88 61c-2 2-2 4 0 6l20 16v14c0 4-4 6-7 4L64 71c-5-4-5-10 0-14l37-30Z" fill="#2F9B68"/>
+</svg>
