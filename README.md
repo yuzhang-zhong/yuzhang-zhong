@@ -14,7 +14,7 @@ My research focuses on *agent decision-making* and *how people can inspect agent
 
 ### Beyond Research
 
-- I'm a **RedNote creator** with **43k+ likes and favorites**.  My <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/cat.svg" alt="Pixel Banban — Stray Cat Simulator" width="24" height="24" /> *[Stray Cat Simulator](https://xhslink.cn/o/8ZPbU0fkkqT)* have achieved **750k+ users**, and I also share blogs about harnesses(coding/autoresearch/EDA/...)
+- I'm a **RedNote creator** with **43k+ likes and favorites**.  My <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/981027e37c2733b113b6deb83825d7eaa48295a8/assets/icons/cat.svg" alt="Pixel Banban — Stray Cat Simulator" width="24" height="24" /> *[Stray Cat Simulator](https://xhslink.cn/o/8ZPbU0fkkqT)* have achieved **750k+ users**, and I also share blogs about harnesses(coding/autoresearch/EDA/...)
 
 <p>
   Find Me Here:
