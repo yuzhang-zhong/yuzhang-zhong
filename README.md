@@ -2,9 +2,9 @@
 
 **Human–Agent Interaction · CS & NLP**
 
-Computer Science undergraduate at the **University of Macau** (Honours College, expected 2027), with research experience at **Northwestern University** and collaboration with the **WInE Lab at Carnegie Mellon University**.
+I'm an undergraduate studying Computer Science at the **University of Macau** (Honours College, expected 2027), with research experience at **Northwestern University** and collaboration with the **WInE Lab at Carnegie Mellon University**.
 
-My research focuses on agent decision-making and how people can inspect agent behavior. 
+My research focuses on *agent decision-making* and *how people can inspect agent behavior*. 
 
 ### Selected work
 
