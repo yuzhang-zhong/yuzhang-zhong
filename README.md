@@ -17,6 +17,7 @@ My research focuses on *agent decision-making* and *how people can inspect agent
 - I'm a **RedNote creator** with **43k+ likes and favorites**. **750k+ users** on RedNote have played my <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/cat.svg" alt="Stray Cat Simulator project icon" width="18" height="18" /> *[Stray Cat Simulator](https://xhslink.cn/o/8ZPbU0fkkqT)*, and I also share blogs about harnesses(coding/autoresearch/EDA/...)
 
 <p>
+  Find Me Here:
 <a href="https://yuzhang-zhong.github.io/" title="Homepage"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/homepage.svg" alt="Homepage" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="mailto:uc32853@um.edu.mo" title="Email: uc32853@um.edu.mo"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/email.svg" alt="Email" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yuzhang-zhong/" title="LinkedIn"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" /></a>&nbsp;&nbsp;
