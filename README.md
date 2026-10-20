@@ -12,4 +12,4 @@ My research focuses on *agent decision-making* and *how people can inspect agent
 - **[RewindAI](https://yuzhang-zhong.github.io/portfolio/rewindai)** · UIST 2026 Poster: inspectable and revisable AI clones for reflective social decisions.
 - **[Dream Factory](https://yuzhang-zhong.github.io/portfolio/)**: LLM-agent role-play for interactive learning.
 
-[Homepage](https://yuzhang-zhong.github.io/) | [Email](mailto:dc32853@um.edu.mo) | [LinkedIn](https://www.linkedin.com/in/yuzhang-zhong/) | [Xiaohongshu](https://xhslink.com/m/7xuJfBEetua)
+Links: [Homepage](https://yuzhang-zhong.github.io/) | [Email](mailto:uc32853@um.edu.mo) | [LinkedIn](https://www.linkedin.com/in/yuzhang-zhong/) | [RedNote](https://xhslink.com/m/7xuJfBEetua)
