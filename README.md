@@ -23,3 +23,7 @@ My research focuses on *agent decision-making* and *how people can inspect agent
 <a href="https://www.linkedin.com/in/yuzhang-zhong/" title="LinkedIn"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" /></a>&nbsp;&nbsp;
 <a href="https://xhslink.com/m/7xuJfBEetua" title="RedNote"><img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong.github.io/main/images/rednote-icon.png" alt="RedNote" width="24" height="24" /></a>
 </p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/yuzhang-zhong/yuzhang-zhong/main/assets/banban-walk.svg" alt="Pixel Banban walking back and forth within this strip" width="600" />
+</p>
